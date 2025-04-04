@@ -1,0 +1,2 @@
+Work in MCP server for 40 minute . write code for diet and workout recommdation for 5 hour 30 minute. design canva for 30 minute 
+daily_tasks.txt
